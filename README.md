@@ -1,3 +1,3 @@
  ## Coffee Orders and Sales never Ends------ A Coffee Dashboard 
 
-![Coffee Dashboard](https://github.com/user-attachments/assets/903d0659-31ba-4988-8b57-fb8671e61cb3)
+![Coffee_Dashboard](https://github.com/user-attachments/assets/1810a192-a3fe-4184-a2bd-0953d11553b6)
